@@ -11,7 +11,7 @@
 - I have little experience at <img src="https://raw.githubusercontent.com/brand-icons/brands/66a515d0afc1bdf9cd308a9ae8d85e1bd23a4d97/icons/color/python.svg" alt="." width="16" height="16"/> [Python](https://www.python.org/) 
 - I’m currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/512px-React_Logo_SVG.svg.png" alt="." width="16" height="16"/> [ReactJs](https://react.dev/) and <img src="https://images.prismic.io/turing/652ec31afbd9a45bcec81965_Top_Features_in_Next_js_13_7f9a32190f.webp?auto=format,compress" alt="." width="16" height="16"/> [NextJs](https://nextjs.org/)
 
-<img src="images/repo.gif" width="500" />
+<img src="repo.gif" width="500" />
 <br/>
 <br/>
   
@@ -21,7 +21,7 @@
   A ...
 <br/>
 
-<img src="images/amx.gif" width="500" /><br/>
+<img src="amx.gif" width="500" /><br/>
 
 
 <sub>  *“Think twice, code once.”* </sub>
