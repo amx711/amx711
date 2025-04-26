@@ -29,16 +29,8 @@
 </div>
 
 ## Discord
-<a href="https://discord.com/users/798145401844138005"  align="left">
-    <iframe
-    title="Discord user embed"
-    width="340"
-    height="192"
-    frameborder="0"
-    sandbox="allow-scripts"
-    src="https://widgets.vendicated.dev/user?id=798145401844138005&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&"
-></iframe>
-</a>
+
+<img width="auto" hight="auto" herf="/" src="https://widgets.vendicated.dev/user?id=798145401844138005&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&%22%3E"/>
 
 ## My stats:
 
